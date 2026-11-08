@@ -1,0 +1,13 @@
+# Python 3.11–3.13. Cài một lần: pip install -r requirements.txt
+numpy>=2.0
+pandas>=2.2
+scipy>=1.11
+scikit-learn>=1.5
+matplotlib>=3.8
+lightgbm>=4.5
+xgboost>=2.0
+catboost>=1.2
+torch>=2.2
+tabicl>=2.0          # TabICLv2 (tải checkpoint từ Hugging Face lần đầu, cần mạng)
+tabpfn               # TabPFNv2 (lần đầu cần mạng; có thể cần đăng nhập/đồng ý điều khoản Hugging Face)
+tabdpt==1.1.*        # TabDPT

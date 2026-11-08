@@ -1,0 +1,3 @@
+model,dataset,seed,train_size,status,accuracy,macro_f1,roc_auc,log_loss,fit_seconds,predict_seconds,package_version,error
+LoCalPFN,breast_cancer_wisconsin,42,50,not_run,,,,,,,,Repo da co trong vendor/; CLI chay (num_steps=3) nhung khong luu diem so
+LoCalPFN,breast_cancer_wisconsin,42,100,not_run,,,,,,,,Repo da co trong vendor/; CLI chay (num_steps=3) nhung khong luu diem so

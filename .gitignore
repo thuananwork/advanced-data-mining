@@ -1,0 +1,11 @@
+catboost_info/
+.venv/
+**/.venv/
+__pycache__/
+**/__pycache__/
+datasets/PS_*.csv
+datasets/paysim/PS_*.csv
+**/predictions.csv
+**/*.cpkt
+**/*.ckpt
+Tabular-Foudation/code_paysim/results_smoke/

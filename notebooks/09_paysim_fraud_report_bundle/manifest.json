@@ -1,0 +1,61 @@
+{
+  "bundle": "paysim_fraud_report_bundle.zip",
+  "created_utc": "2026-11-02T06:23:48Z",
+  "files": [
+    {
+      "path": "runs.csv",
+      "bytes": 28224,
+      "sha256": "f05052b10e0c6d2d3c1bb25412cc996396cc97ad39b058eaa7e19ab68f412370"
+    },
+    {
+      "path": "predictions.csv",
+      "bytes": 242001482,
+      "sha256": "9215c1ed3c404bfefcef1360c37c902defebdd86d56bdb148a6c80df3a3b17b4"
+    },
+    {
+      "path": "summary.csv",
+      "bytes": 4451,
+      "sha256": "9747e3ac1641d5b6fcfc1d751e0424a6ded6ae54639d443fea7eded6c2cb3511"
+    },
+    {
+      "path": "ensemble_summary.csv",
+      "bytes": 2668,
+      "sha256": "503705e1cfac8dc382c9584b024184b7681f7917bca6b40291f0b0899c9b0d0e"
+    },
+    {
+      "path": "ensemble_metrics_summary.csv",
+      "bytes": 1384,
+      "sha256": "cc5c10936f11508db99098276ab1552ea88f326a85db5e56a473d2bcaf2680e1"
+    },
+    {
+      "path": "lightgbm_tuning.csv",
+      "bytes": 721,
+      "sha256": "f123ee2b0e8e480ee7cf791d1088af8eb9172ebaf75a430c12f15db1c3acd3ba"
+    },
+    {
+      "path": "config.json",
+      "bytes": 5014,
+      "sha256": "08c79c3e9f232c5727add7a153894c2034014fce93ab37d5d0017f517a779539"
+    },
+    {
+      "path": "split_config.json",
+      "bytes": 735,
+      "sha256": "5b52d5ccfe3f6d051e25a30d592f36e8d8d13d415313748c4fb6b98283811971"
+    },
+    {
+      "path": "train_subsets.json",
+      "bytes": 210759,
+      "sha256": "9ff6519eec99557cf4b8ad3b029952cec16cd6be2ed85d1277d9d8ec37e8602f"
+    },
+    {
+      "path": "report_summary.json",
+      "bytes": 17118,
+      "sha256": "609340faf1b750f5d2b2d1e19d7e900ddcebeee9c76a1773ad875403574f99b9"
+    },
+    {
+      "path": "README_report.md",
+      "bytes": 1329,
+      "sha256": "6ffc618ead1b6b0691e9abd0e050fef19a919e78378f07ec864087be1adfbd06"
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "dataset_sha256": "16910f90577b0d981bf8ff289714510bb89bc71bff7d3f220f024e287e4eea6b",
+  "strategy": "chronological by unique step; first 60% train, next 20% validation, final 20% test",
+  "train_step_end": 445.0,
+  "validation_step_end": 594.0,
+  "train_pool_rows": 499633,
+  "validation_period_rows": 21247,
+  "test_period_rows": 12029,
+  "validation_eval_rows": 20000,
+  "test_eval_rows": 12029,
+  "validation_prevalence": 0.0361,
+  "test_prevalence": 0.06875051957768726,
+  "validation_indices_sha256": "1b25d54c6ef36374a24ddac28b64e12ae29610fe02a052c3f1d2c981f03fd407",
+  "test_indices_sha256": "314ee37ae0b64fdaf8ba2d43d652e7a52a7fad7537af5d1a5b6d080148fecf10",
+  "max_eval_rows_per_split": 20000,
+  "eval_sample_seed": 4242
+}
